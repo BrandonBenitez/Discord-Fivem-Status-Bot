@@ -1,0 +1,26 @@
+{
+    "name": "fivem_status_bot",
+    "version": "1.0.0",
+    "description": "discord bot for server fivem status ",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/brandonbenitez"
+    },
+    "keywords": [],
+    "author": "B516",
+    "license": "ISC",
+    "dependencies": {
+        "ascii-table": "^0.0.9",
+        "axios": "^0.24.0",
+        "canvas": "^2.8.0",
+        "discord.js": "^13.2.0",
+        "glob": "^7.1.7",
+        "megadb": "^3.4.0",
+        "path": "^0.12.7"
+    }
+}
