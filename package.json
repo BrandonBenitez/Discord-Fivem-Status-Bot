@@ -9,10 +9,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/brandonbenitez"
+        "url": "git+https://github.com/BrandonBenitez/Discord-Fivem-Status-Bot"
     },
     "keywords": [],
-    "author": "B516",
+    "author": "Kepler09",
     "license": "ISC",
     "dependencies": {
         "ascii-table": "^0.0.9",
